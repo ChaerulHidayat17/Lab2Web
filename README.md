@@ -29,10 +29,16 @@ Urutan muncul pada browser = Inline CSS <br>
                            = Internal CSS <br>
                            = Eksternal CSS <br> <br
 # 7. Deklarasi mana yang akan di tampilkan lebih dulu pada browser id atau class ?
-Dalam hal ini, ID memiliki kekuatan  yang lebih tinggi daripada Class. Oleh karena itu, deklarasi CSS yang terkait dengan ID akan ditampilkan oleh browser daripada deklarasi yang terkait dengan kelas. <br>
+Dalam hal ini, ID memiliki kekuatan  yang lebih tinggi daripada Class. Oleh karena itu, deklarasi CSS yang terkait dengan ID akan ditampilkan oleh browser daripada deklarasi yang terkait dengan Class. <br>
 Ini adalah contoh kode dan hasil gambar nya <br>
 ![ID DAN CLASS](Gambar-Readme/code6.png) <br>
 ![Hasil nya](Gambar-Readme/code7.png)<br><br>
+===========================================================================<br>
+<p align="center">
+ &#128640 <b> Terima Kasih </b>&#128640 <br>
+</p>
+===========================================================================<br><br>
+
 
 
 
